@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luya1002
+- 👋 Hi, I’m @Luya
 - 🌟 I am passionate about creating things and exploring new technologies.
 - 👀 I’m currently learning Java Web Development and improving my English skills.
 - 📫 If you have any questions, please feel free to contact me at FangLu1002@outlook.com. I am happy to reply to your questions as soon as possible.
